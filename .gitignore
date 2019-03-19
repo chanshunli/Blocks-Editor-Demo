@@ -23,4 +23,5 @@ figwheel-server.log
 
 .projectile
 ./figwheel_server.log
+blocks-editor-demo-darwin-x64
 
