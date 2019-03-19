@@ -22,3 +22,5 @@ figwheel-server.log
 
 
 .projectile
+./figwheel_server.log
+

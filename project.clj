@@ -19,7 +19,7 @@
 
   :figwheel {:http-server-root "public"
              :ring-handler figwheel-middleware/app
-             :server-port 3449}
+             :server-port 3669}
   
   :hooks [leiningen.cljsbuild] 
   :cljsbuild {:builds

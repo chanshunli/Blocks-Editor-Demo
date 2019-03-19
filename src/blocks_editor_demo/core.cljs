@@ -19,7 +19,7 @@
                        :width "100%"}}
     [:center [:p {:style {:position "relative"
                           :top 30
-                          :margin-bottom 0}} "MENU"]]]
+                          :margin-bottom 0}} "MENUAAAA"]]]
    [:div#blocklyDiv {:style blockly-style}]])
 
 (defn ^:export init!

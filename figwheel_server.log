@@ -779,3 +779,14 @@ notifying browser that file changed:  app\js\out\blocks_editor_demo\core.js
 [0mCompiling "app/js/app.js" from ["src" "dev/cljs/"]...[0m
 [32mSuccessfully compiled "app/js/app.js" in 0.355 seconds.[0m
 notifying browser that file changed:  app\js\out\blocks_editor_demo\core.js
+[0mCompiling "app/js/app.js" from ["src" "dev/cljs/"]...[0m
+[32mSuccessfully compiled "app/js/app.js" in 0.65 seconds.[0m
+notifying browser that file changed:  app/js/app.js
+notifying browser that file changed:  app/js/out/goog/deps.js
+notifying browser that file changed:  app/js/out/blocks_editor_demo/init.js
+[0mCompiling "app/js/app.js" from ["src" "dev/cljs/"]...[0m
+[32mSuccessfully compiled "app/js/app.js" in 0.966 seconds.[0m
+notifying browser that file changed:  app/js/out/blocks_editor_demo/core.js
+[0mCompiling "app/js/app.js" from ["src" "dev/cljs/"]...[0m
+[32mSuccessfully compiled "app/js/app.js" in 0.656 seconds.[0m
+notifying browser that file changed:  app/js/out/blocks_editor_demo/core.js

@@ -2,4 +2,3 @@
   (:require [blocks-editor-demo.core :as c]))
 
 (c/init! {})
-

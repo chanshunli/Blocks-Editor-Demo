@@ -4,5 +4,5 @@
 (enable-console-print!)
 
 (fw/watch-and-reload :websocket-url
-                     "ws://localhost:3449/figwheel-ws")
+                     "ws://localhost:3669/figwheel-ws")
 
